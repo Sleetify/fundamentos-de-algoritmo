@@ -15,9 +15,13 @@ namespace Semana3
             Console.WriteLine("Ingrese su nombre: ");
             nombre = Console.ReadLine();
 
-            Console.WriteLine(nombre + " Bienvenido al curso de Fundamentos de Algoritmo");
+            Console.WriteLine("\n"+nombre+", Bienvenido al curso de Fundamentos de Algoritmo");
 
-            Console.ReadKey();
+        }
+
+        static void ejercicio2()
+        {
+            Console.WriteLine("Jaren\n19\nIng. Sistemas");
         }
     }
 }
