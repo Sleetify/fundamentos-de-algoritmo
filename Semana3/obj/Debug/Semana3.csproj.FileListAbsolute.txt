@@ -5,3 +5,10 @@ C:\Users\User\Desktop\wa\Fundamentos de Algoritmos\Semana3\obj\Debug\Semana3.csp
 C:\Users\User\Desktop\wa\Fundamentos de Algoritmos\Semana3\obj\Debug\Semana3.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\wa\Fundamentos de Algoritmos\Semana3\obj\Debug\Semana3.exe
 C:\Users\User\Desktop\wa\Fundamentos de Algoritmos\Semana3\obj\Debug\Semana3.pdb
+C:\Users\UPN\Desktop\a\fundamentos-de-algoritmo\Semana3\bin\Debug\Semana3.exe.config
+C:\Users\UPN\Desktop\a\fundamentos-de-algoritmo\Semana3\bin\Debug\Semana3.exe
+C:\Users\UPN\Desktop\a\fundamentos-de-algoritmo\Semana3\bin\Debug\Semana3.pdb
+C:\Users\UPN\Desktop\a\fundamentos-de-algoritmo\Semana3\obj\Debug\Semana3.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\a\fundamentos-de-algoritmo\Semana3\obj\Debug\Semana3.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\a\fundamentos-de-algoritmo\Semana3\obj\Debug\Semana3.exe
+C:\Users\UPN\Desktop\a\fundamentos-de-algoritmo\Semana3\obj\Debug\Semana3.pdb
